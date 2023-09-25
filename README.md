@@ -1,20 +1,20 @@
 # DFC
 
 This page collects the links to the DFC-related papers repositories and websites.
-<br>
+<br/>
 
 <section style="margin-bottom: 500px;">
 <b>DFC for Computer Vision</b>
-<br/><br/>
+<br/>
 [DFC website](https://Fb221.github.io)
-<br>
+<br/>
 </section>
 
 <section>
 <b>DFC for 3D Meshes</b>
-<br>
+<br/>
 <i>Adaptive Spiral Layers for Efficient 3D Representation Learning on Meshes </i> ([website](https://Fb221.github.io)) ([repository](https://github.com/Fb2221/Fb2221.github.io))
-<br>
+<br/>
 </section>
 
 If you find DFC useful for your work please cite:
