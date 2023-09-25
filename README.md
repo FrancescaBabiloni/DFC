@@ -3,7 +3,7 @@
 This page collects the links to the DFC-related papers repositories and websites.
 <br>
 
-<section style="margin-bottom: 40px;">
+<section style="margin-bottom: 500px;">
 <b>DFC for Computer Vision</b>
 <br>
 [DFC website](https://Fb221.github.io)
