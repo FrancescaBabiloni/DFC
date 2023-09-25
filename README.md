@@ -13,6 +13,10 @@ This page collects the links to the DFC-related papers repositories and websites
 <section>
 <b>DFC for 3D Meshes</b>
 <br>
+
+<br>
+
+<br>
 <i>Adaptive Spiral Layers for Efficient 3D Representation Learning on Meshes </i> ([website](https://Fb221.github.io)) ([repository](https://github.com/Fb2221/Fb2221.github.io))
 <br>
 </section>
